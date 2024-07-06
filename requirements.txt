@@ -3,4 +3,3 @@ opencv-python
 scikit-image
 tensorflow
 torch
-mediapipe
