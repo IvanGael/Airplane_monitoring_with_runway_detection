@@ -1,5 +1,5 @@
 numpy
 opencv-python
-scikit-image
+skimage
 tensorflow
-torch
+ultralytics

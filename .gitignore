@@ -1,2 +1,4 @@
 saved_model
 yolov5s.pt
+__pycache__
+*.mp4
